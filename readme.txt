@@ -9,3 +9,4 @@ creating a new branch is quick and simple.
 creating a new branch is quick and simple.
 >>>>>>> feature1
 today i change it again.
+today i fix bug 101.
